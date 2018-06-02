@@ -6,7 +6,7 @@
 
 package com.fedex.office.fcc.common;
 
-import java.io.Serializab
+import java.io.Serializable
 
 /**
  * @author Anil.Thakur
